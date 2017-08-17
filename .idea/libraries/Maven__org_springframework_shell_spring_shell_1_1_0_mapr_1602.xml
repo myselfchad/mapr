@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.shell:spring-shell:1.1.0-mapr-1602">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.1.0-mapr-1602/spring-shell-1.1.0-mapr-1602.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.1.0-mapr-1602/spring-shell-1.1.0-mapr-1602-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.1.0-mapr-1602/spring-shell-1.1.0-mapr-1602-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
