@@ -20,6 +20,7 @@ public class ReceiptsReducer  extends Reducer <Text,Text,Text,FloatWritable> {
         long tempValue = 0L;
         long max=Long.MIN_VALUE;
         long min=Long.MAX_VALUE;
+        long sum = 0L,count = 0L;
 
         for (Text value: values) {
             tempString = value.toString();
@@ -35,18 +36,18 @@ public class ReceiptsReducer  extends Reducer <Text,Text,Text,FloatWritable> {
                 maxYear = tempYear;
             }
             // TODO increment the sum by tempValue
-
+            sum=sum+tempValue;
             // TODO increment the count by 1
-
+            count++;
         }
         // TODO declare and calculate float value for mean
-
-
+        long mean=sum/count;
         keyText.set("min" + "(" + minYear.toString() + "): ");
         context.write(keyText, new FloatWritable(min));
         keyText.set("max" + "(" + maxYear.toString() + "): ");
         context.write(keyText, new FloatWritable(max));
-
+        keyText.set("mean: ");
+        context.write(keyText, new FloatWritable(mean));
         // TODO set the keyText to "mean:"
 
         // TODO write keyText and mean to the context

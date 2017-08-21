@@ -9,6 +9,65 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-server-tests:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-hs:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-datajoin:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-hdfs-nfs:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-minicluster:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-common:test-jar:tests:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-hdfs:test-jar:tests:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-server-tests:test-jar:tests:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:test-jar:tests:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.netty:netty:3.2.2.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-assemblies:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.servlet.jsp:jsp-api:2.1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jets3t:jets3t:0.9.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.jamesmurty.utils:java-xmlbuilder:0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.42" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-nfs:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.mockito:mockito-all:1.8.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-hdfs:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.directory.server:apacheds-kerberos-codec:2.0.0-M15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.directory.server:apacheds-i18n:2.0.0-M15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.directory.api:api-asn1-api:1.0.0-M20" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.directory.api:api-util:1.0.0-M20" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-dist-redhat:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-hs-plugins:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-applications-unmanaged-am-launcher:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-streaming:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-maven-plugins:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-plexus:1.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-bean:1.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-guice:noaop:2.1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-core:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-settings-builder:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-repository-metadata:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-model-builder:3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.maven:maven-aether-provider:3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-impl:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-spi:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-api:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.aether:aether-util:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-interpolation:1.14" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-classworlds:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.5.5" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-sec-dispatcher:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.sonatype.plexus:plexus-cipher:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-archives:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-mapreduce-examples:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-distcp:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-rumen:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-yarn-site:2.7.0-mapr-1602" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-gridmix:2.7.0-mapr-1602" level="project" />
     <orderEntry type="library" name="Maven: com.mapr.hadoop:maprfs-core:5.1.0-mapr" level="project" />
     <orderEntry type="library" name="Maven: com.mapr:mapr-java-utils:5.1.0-mapr" level="project" />
     <orderEntry type="library" name="Maven: xerces:xercesImpl:2.9.1" level="project" />
@@ -159,7 +218,7 @@
     <orderEntry type="module-library">
       <library name="Maven: jdk.tools:jdk.tools:1.8">
         <CLASSES>
-          <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk/lib/tools.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/jdk/tools/jdk.tools/1.8/jdk.tools-1.8.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

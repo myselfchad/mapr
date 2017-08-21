@@ -24,7 +24,7 @@ public class ReceiptsDriver extends Configured implements Tool {
             System.exit(1);
         }
         // TODO change name below
-        Job job = new Job(getConf(), "my receipts");
+        Job job = new Job(getConf(), "receipts_context");
 
         job.setJarByClass(ReceiptsDriver.class);
         job.setMapperClass(ReceiptsMapper.class);
